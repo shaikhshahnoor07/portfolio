@@ -79,39 +79,35 @@ public class ShahnoorShaikh {
 
 ---
 
-## GitHub Stats
+## At a Glance
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shaikhshahnoor07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0c10&title_color=e8d5a3&icon_color=4f9cf9&text_color=d4d8e8&border_radius=12" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikhshahnoor07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0c10&title_color=e8d5a3&text_color=d4d8e8&border_radius=12" height="170"/>
+![CGPA](https://img.shields.io/badge/BSc_IT_CGPA-9.0_%2F_10.0-e8d5a3?style=for-the-badge&logo=academia&logoColor=0a0c10)
+![Experience](https://img.shields.io/badge/Experience-1%2B_Year-4f9cf9?style=for-the-badge&logo=buffer&logoColor=white)
+![Projects](https://img.shields.io/badge/Projects_Built-4-7c6af5?style=for-the-badge&logo=github&logoColor=white)
+![Status](https://img.shields.io/badge/Availability-Immediate_Joiner-3ecf8e?style=for-the-badge&logo=checkmarx&logoColor=white)
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shaikhshahnoor07&theme=tokyonight&hide_border=true&background=0a0c10&stroke=1e2330&ring=e8d5a3&fire=4f9cf9&currStreakLabel=e8d5a3&border_radius=12" width="60%"/>
+![Java](https://img.shields.io/badge/Java-Advanced-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![J2EE](https://img.shields.io/badge/J2EE_%2F_Servlet_%2F_JSP-Proficient-007396?style=flat-square&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL_%2F_PostgreSQL-Proficient-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate_ORM-Good-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![Web](https://img.shields.io/badge/HTML5_%2F_CSS3_%2F_JS-Average-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Git](https://img.shields.io/badge/Git_%2F_GitHub-Good-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
 
-<div align="center">
+<br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shaikhshahnoor07&theme=tokyo-night&hide_border=true&bg_color=0a0c10&color=e8d5a3&line=4f9cf9&point=e8d5a3&area=true&area_color=4f9cf9" width="100%"/>
-
-</div>
+> **"Build efficient solutions. Never stop learning."**
 
 ---
 
 ## Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/shaikhshahnoor07">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaikhshahnoor07&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0a0c10&title_color=e8d5a3&icon_color=4f9cf9&text_color=d4d8e8&border_radius=12"/>
-</a>
-
-</div>
 
 ### Projects Built
 
